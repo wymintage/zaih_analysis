@@ -14,16 +14,16 @@
 + 数据分析
 	+ 进行数据分析前的准备工作
 	+ 产品分析
-	+ 市场分析
 	+ 供给分析
 	+ 需求分析
+	+ 市场分析
 	+ 运营分析
 + 数据分析报告
 	+ 前言
 	+ 产品分析
-	+ 市场分析
 	+ 供给分析
 	+ 需求分析
+	+ 市场分析
 	+ 运营分析
 	+ 总结
 
@@ -43,11 +43,10 @@
 		+ [浏览链接](http://nbviewer.jupyter.org/github/wymintage/zaih_analysis/blob/master/zaih_analysis/zaih_analysis_1.ipynb "浏览链接")
 	+ zaih_analysis\_2  完成度：100%
 		+ [浏览链接](http://nbviewer.jupyter.org/github/wymintage/zaih_analysis/blob/master/zaih_analysis/zaih_analysis_2.ipynb "浏览链接") 
-	+ zaih_analysis\_3  完成度：20%
+	+ zaih_analysis\_3  完成度：0%
 		+ [浏览链接](http://nbviewer.jupyter.org/github/wymintage/zaih_analysis/blob/master/zaih_analysis/zaih_analysis_3.ipynb "浏览链接")  
-	+ zaih_analysis\_4  完成度：0%
+	+ zaih_analysis\_4  完成度：100%
 		+ [浏览链接](http://nbviewer.jupyter.org/github/wymintage/zaih_analysis/blob/master/zaih_analysis/zaih_analysis_4.ipynb "浏览链接")
 	+ zaih_analysis\_5  完成度：0%
 		+ [浏览链接](http://nbviewer.jupyter.org/github/wymintage/zaih_analysis/blob/master/zaih_analysis/zaih_analysis_5.ipynb "浏览链接")
-	+ 在行分析报告.docx  完成度：40%
-	+ 在行分析报告.md  完成度：0%
++ 在行分析报告.md  完成度：60%
